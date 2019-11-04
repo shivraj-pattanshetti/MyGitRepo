@@ -1,0 +1,5 @@
+git config: must 1 time 1>user.name and user.email
+
+initialize repo: git init ->1Time or clone 
+
+master -->deafult branchj
