@@ -10,3 +10,19 @@ checkout --> to switch between branches
 workflow
 1)git workflow
 2)github workflow
+
+switch to master
+
+
+
+remote:
+clone
+push
+pull
+fetch
+
+pull vs fetchs
+
+pull=merege +fetch
+
+only status ;-without data gitfetch
